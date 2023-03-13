@@ -1,7 +1,7 @@
 # creating a function
 
 def cube(n):
-    return n*n
+    return n*n*n
 
 if __name__ == '__main__':
     print("the main function is called")
